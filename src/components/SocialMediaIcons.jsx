@@ -7,7 +7,7 @@ const SocialMediaIcons = () => {
                 target="_blank"
                 rel="noreferrer"
             >
-                <img alt="linkedin-link" src="/assets/linkedin.png" />
+                <img alt="linkedin-link" src="assets/linkedin.png" />
             </a>
 
             <a
@@ -16,7 +16,7 @@ const SocialMediaIcons = () => {
                 target="_blank"
                 rel="noreferrer"
             >
-                <img alt="twitter-link" src="/assets/twitter.png" />
+                <img alt="twitter-link" src="assets/twitter.png" />
             </a>
 
             <a
@@ -25,7 +25,7 @@ const SocialMediaIcons = () => {
                 target="_blank"
                 rel="noreferrer"
             >
-                <img alt="facebook-link" src="../assets/facebook.png" />
+                <img alt="facebook-link" src="assets/facebook.png" />
             </a>
 
             <a
@@ -34,7 +34,7 @@ const SocialMediaIcons = () => {
                 target="_blank"
                 rel="noreferrer"
             >
-                <img alt="instagram.-link" src="../assets/instagram.png" />
+                <img alt="instagram.-link" src="assets/instagram.png" />
             </a>
 
         </div>

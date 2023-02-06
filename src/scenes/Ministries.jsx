@@ -29,7 +29,7 @@ const Ministrie = ({ title }) => {
           porttitor accumsan tincidunt.
         </p>
       </div>
-      <img src={`/assets/${ministrieTitle}.jpeg`} alt={ministrieTitle} />
+      <img src={`assets/${ministrieTitle}.jpeg`} alt={ministrieTitle} />
     </motion.div>
   )
 };

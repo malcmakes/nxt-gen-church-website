@@ -44,7 +44,7 @@ const About = () => {
                         >
                         <img
                                 alt="skills"
-                                className=" object-center z-10 w-1/2   "
+                                className=" object-center z-10 w-1/2"
                                 src="assets/pexels-rodnae-productions-8034623.jpg"
                             />
                         </div>
